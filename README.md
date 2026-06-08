@@ -81,7 +81,6 @@ SkillCraft_Task04_Business_Insights_Report
 ├── bank.csv
 ├── Marketing_EDA.ipynb
 ├── Business_Insights_Report.pdf
-├── Visualizations
 └── README.md
 ```
 
